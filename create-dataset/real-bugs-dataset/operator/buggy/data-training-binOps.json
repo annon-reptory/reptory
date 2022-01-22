@@ -1,0 +1,455 @@
+[
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880001960055.txt",
+    "leftOperand": "hasClass",
+    "rightOperand": "hasClass",
+    "original": {
+      "left": "ID:hasClass",
+      "right": "ID:hasClass",
+      "op": "^",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880005450049.txt",
+    "leftOperand": "isArray",
+    "rightOperand": "isArray",
+    "original": {
+      "left": "ID:isArray",
+      "right": "ID:isArray",
+      "op": "^",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880008310027.txt",
+    "leftOperand": "item",
+    "rightOperand": "undefined",
+    "original": {
+      "left": "ID:item",
+      "right": "ID:undefined",
+      "op": "|",
+      "leftType": "unknown",
+      "rightType": "undefined"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880010130016.txt",
+    "leftOperand": "true",
+    "rightOperand": "undefined",
+    "original": {
+      "left": "LIT:true",
+      "right": "ID:undefined",
+      "op": "|",
+      "leftType": "boolean",
+      "rightType": "undefined"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880011700009.txt",
+    "leftOperand": "",
+    "rightOperand": "x",
+    "original": {
+      "left": "LIT:",
+      "right": "LIT:x",
+      "op": "<=",
+      "leftType": "string",
+      "rightType": "string"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880013290030.txt",
+    "leftOperand": "Sequence",
+    "rightOperand": "Constructor",
+    "original": {
+      "left": "ID:Sequence",
+      "right": "ID:Constructor",
+      "op": "|",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880014910020.txt",
+    "leftOperand": "ctrlKey",
+    "rightOperand": "altKey",
+    "original": {
+      "left": "ID:ctrlKey",
+      "right": "ID:altKey",
+      "op": "^",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880016550020.txt",
+    "leftOperand": "ctrlKey",
+    "rightOperand": "altKey",
+    "original": {
+      "left": "ID:ctrlKey",
+      "right": "ID:altKey",
+      "op": "^",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880017990013.txt",
+    "leftOperand": "argument",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:argument",
+      "right": "LIT:0",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880019320013.txt",
+    "leftOperand": "argument",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:argument",
+      "right": "LIT:0",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880020970013.txt",
+    "leftOperand": "some",
+    "rightOperand": "result",
+    "original": {
+      "left": "ID:some",
+      "right": "ID:result",
+      "op": "^",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880022750016.txt",
+    "leftOperand": "null",
+    "rightOperand": "undefined",
+    "original": {
+      "left": "LIT:null",
+      "right": "ID:undefined",
+      "op": "+",
+      "leftType": "null",
+      "rightType": "undefined"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880024580016.txt",
+    "leftOperand": "null",
+    "rightOperand": "undefined",
+    "original": {
+      "left": "LIT:null",
+      "right": "ID:undefined",
+      "op": "+",
+      "leftType": "null",
+      "rightType": "undefined"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880025800008.txt",
+    "leftOperand": "end",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:end",
+      "right": "LIT:0",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880027490010.txt",
+    "leftOperand": "length",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:length",
+      "right": "LIT:0",
+      "op": "|",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880028910005.txt",
+    "leftOperand": "i",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:i",
+      "right": "ID:len",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880030700020.txt",
+    "leftOperand": "shift",
+    "rightOperand": "shiftKey",
+    "original": {
+      "left": "ID:shift",
+      "right": "ID:shiftKey",
+      "op": "^",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880032410020.txt",
+    "leftOperand": "shift",
+    "rightOperand": "shiftKey",
+    "original": {
+      "left": "ID:shift",
+      "right": "ID:shiftKey",
+      "op": "^",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880033670008.txt",
+    "leftOperand": "end",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:end",
+      "right": "LIT:0",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880035360013.txt",
+    "leftOperand": "index",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:index",
+      "right": "ID:len",
+      "op": "!==",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880036720029.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880038150023.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880039670029.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880041250023.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880042810029.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880044430023.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880045970050.txt",
+    "leftOperand": "indexOf",
+    "rightOperand": "1",
+    "original": {
+      "left": "ID:indexOf",
+      "right": "LIT:1",
+      "op": "^",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880047660008.txt",
+    "leftOperand": "i",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:i",
+      "right": "ID:len",
+      "op": "!=",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880049380008.txt",
+    "leftOperand": "i",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:i",
+      "right": "ID:len",
+      "op": "!=",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880050700020.txt",
+    "leftOperand": "charAt",
+    "rightOperand": "s",
+    "original": {
+      "left": "ID:charAt",
+      "right": "LIT:s",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "string"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880052030011.txt",
+    "leftOperand": "j",
+    "rightOperand": "length",
+    "original": {
+      "left": "ID:j",
+      "right": "ID:length",
+      "op": "!=",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880054090009.txt",
+    "leftOperand": "k",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:k",
+      "right": "ID:len",
+      "op": "!==",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880055470005.txt",
+    "leftOperand": "i",
+    "rightOperand": "n",
+    "original": {
+      "left": "ID:i",
+      "right": "ID:n",
+      "op": "!==",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880056840021.txt",
+    "leftOperand": "j",
+    "rightOperand": "length",
+    "original": {
+      "left": "ID:j",
+      "right": "ID:length",
+      "op": "!==",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880058510011.txt",
+    "leftOperand": "index",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:index",
+      "right": "ID:len",
+      "op": "+",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880059780005.txt",
+    "leftOperand": "j",
+    "rightOperand": "n",
+    "original": {
+      "left": "ID:j",
+      "right": "ID:n",
+      "op": "!==",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-buggy.js1422880061080011.txt",
+    "leftOperand": "length",
+    "rightOperand": "1",
+    "original": {
+      "left": "ID:length",
+      "right": "LIT:1",
+      "op": ">>",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  }
+]

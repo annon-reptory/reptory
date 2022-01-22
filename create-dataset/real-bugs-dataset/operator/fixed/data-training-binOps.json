@@ -1,0 +1,455 @@
+[
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870001960056.txt",
+    "leftOperand": "hasClass",
+    "rightOperand": "hasClass",
+    "original": {
+      "left": "ID:hasClass",
+      "right": "ID:hasClass",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870005460050.txt",
+    "leftOperand": "isArray",
+    "rightOperand": "isArray",
+    "original": {
+      "left": "ID:isArray",
+      "right": "ID:isArray",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870008330028.txt",
+    "leftOperand": "item",
+    "rightOperand": "undefined",
+    "original": {
+      "left": "ID:item",
+      "right": "ID:undefined",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "undefined"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870010160017.txt",
+    "leftOperand": "true",
+    "rightOperand": "undefined",
+    "original": {
+      "left": "LIT:true",
+      "right": "ID:undefined",
+      "op": "||",
+      "leftType": "boolean",
+      "rightType": "undefined"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870011740009.txt",
+    "leftOperand": "",
+    "rightOperand": "x",
+    "original": {
+      "left": "LIT:",
+      "right": "LIT:x",
+      "op": "||",
+      "leftType": "string",
+      "rightType": "string"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870013330031.txt",
+    "leftOperand": "Sequence",
+    "rightOperand": "Constructor",
+    "original": {
+      "left": "ID:Sequence",
+      "right": "ID:Constructor",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870014960021.txt",
+    "leftOperand": "ctrlKey",
+    "rightOperand": "altKey",
+    "original": {
+      "left": "ID:ctrlKey",
+      "right": "ID:altKey",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870016610021.txt",
+    "leftOperand": "ctrlKey",
+    "rightOperand": "altKey",
+    "original": {
+      "left": "ID:ctrlKey",
+      "right": "ID:altKey",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870018060012.txt",
+    "leftOperand": "argument",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:argument",
+      "right": "LIT:0",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870019380012.txt",
+    "leftOperand": "argument",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:argument",
+      "right": "LIT:0",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870021020014.txt",
+    "leftOperand": "some",
+    "rightOperand": "result",
+    "original": {
+      "left": "ID:some",
+      "right": "ID:result",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870022810017.txt",
+    "leftOperand": "null",
+    "rightOperand": "undefined",
+    "original": {
+      "left": "LIT:null",
+      "right": "ID:undefined",
+      "op": "&&",
+      "leftType": "null",
+      "rightType": "undefined"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870024650017.txt",
+    "leftOperand": "null",
+    "rightOperand": "undefined",
+    "original": {
+      "left": "LIT:null",
+      "right": "ID:undefined",
+      "op": "&&",
+      "leftType": "null",
+      "rightType": "undefined"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870025880007.txt",
+    "leftOperand": "end",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:end",
+      "right": "LIT:0",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870027560011.txt",
+    "leftOperand": "length",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:length",
+      "right": "LIT:0",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870028990005.txt",
+    "leftOperand": "i",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:i",
+      "right": "ID:len",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870030780021.txt",
+    "leftOperand": "shift",
+    "rightOperand": "shiftKey",
+    "original": {
+      "left": "ID:shift",
+      "right": "ID:shiftKey",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870032500021.txt",
+    "leftOperand": "shift",
+    "rightOperand": "shiftKey",
+    "original": {
+      "left": "ID:shift",
+      "right": "ID:shiftKey",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870033770007.txt",
+    "leftOperand": "end",
+    "rightOperand": "0",
+    "original": {
+      "left": "ID:end",
+      "right": "LIT:0",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870035450011.txt",
+    "leftOperand": "index",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:index",
+      "right": "ID:len",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870036790028.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870038210022.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870039720028.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870041290022.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870042840028.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870044450022.txt",
+    "leftOperand": "charCodeAt",
+    "rightOperand": "8",
+    "original": {
+      "left": "ID:charCodeAt",
+      "right": "LIT:8",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870045980051.txt",
+    "leftOperand": "indexOf",
+    "rightOperand": "1",
+    "original": {
+      "left": "ID:indexOf",
+      "right": "LIT:1",
+      "op": "||",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870047680007.txt",
+    "leftOperand": "i",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:i",
+      "right": "ID:len",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870049390007.txt",
+    "leftOperand": "i",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:i",
+      "right": "ID:len",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870050700021.txt",
+    "leftOperand": "charAt",
+    "rightOperand": "s",
+    "original": {
+      "left": "ID:charAt",
+      "right": "LIT:s",
+      "op": "==",
+      "leftType": "unknown",
+      "rightType": "string"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870052040010.txt",
+    "leftOperand": "j",
+    "rightOperand": "length",
+    "original": {
+      "left": "ID:j",
+      "right": "ID:length",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870054090007.txt",
+    "leftOperand": "k",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:k",
+      "right": "ID:len",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870055450003.txt",
+    "leftOperand": "i",
+    "rightOperand": "n",
+    "original": {
+      "left": "ID:i",
+      "right": "ID:n",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  }
+,
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870056800019.txt",
+    "leftOperand": "j",
+    "rightOperand": "length",
+    "original": {
+      "left": "ID:j",
+      "right": "ID:length",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870058450012.txt",
+    "leftOperand": "index",
+    "rightOperand": "len",
+    "original": {
+      "left": "ID:index",
+      "right": "ID:len",
+      "op": "==",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870059730003.txt",
+    "leftOperand": "j",
+    "rightOperand": "n",
+    "original": {
+      "left": "ID:j",
+      "right": "ID:n",
+      "op": "<",
+      "leftType": "unknown",
+      "rightType": "unknown"
+    }
+  },
+  {
+    "codeId": "data-realreal-opts-fixed.js1422870061010010.txt",
+    "leftOperand": "length",
+    "rightOperand": "1",
+    "original": {
+      "left": "ID:length",
+      "right": "LIT:1",
+      "op": ">",
+      "leftType": "unknown",
+      "rightType": "number"
+    }
+  }
+]

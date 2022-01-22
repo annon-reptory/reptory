@@ -1,0 +1,535 @@
+[
+  {
+    "callee": "call",
+    "base": "trim",
+    "synthesizedArgumentTypes": [
+      "object",
+      "boolean"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840001460004",
+    "original": {
+      "callee": "ID:call",
+      "base": "ID:trim",
+      "arguments": [
+        "LIT:this",
+        "ID:String"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "String"
+  },
+  {
+    "callee": "done",
+    "base": "p",
+    "synthesizedArgumentTypes": [
+      "null",
+      "object"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840003260004",
+    "original": {
+      "callee": "ID:done",
+      "base": "ID:p",
+      "arguments": [
+        "LIT:null",
+        "ID:response"
+      ],
+      "argumentTypes": [
+        "null",
+        "unknown"
+      ]
+    },
+    "arg1": "null",
+    "arg2": "response"
+  },
+  {
+    "callee": "apply",
+    "base": "summaryRowTemplate",
+    "synthesizedArgumentTypes": [
+      "object",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840005420005",
+    "original": {
+      "callee": "ID:apply",
+      "base": "ID:summaryRowTemplate",
+      "arguments": [
+        "LIT:this",
+        "ID:aggregate"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "aggregate"
+  },
+  {
+    "callee": "css",
+    "base": "$kit",
+    "synthesizedArgumentTypes": [
+      "string",
+      "boolean"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840007310003",
+    "original": {
+      "callee": "ID:css",
+      "base": "ID:$kit",
+      "arguments": [
+        "LIT:width",
+        "ID:progress"
+      ],
+      "argumentTypes": [
+        "string",
+        "unknown"
+      ]
+    },
+    "arg1": "width",
+    "arg2": "progress"
+  }
+,
+  {
+    "callee": "make",
+    "base": "",
+    "synthesizedArgumentTypes": [
+      "string",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840008860004",
+    "original": {
+      "callee": "ID:make",
+      "base": "",
+      "arguments": [
+        "ID:items",
+        "ID:length"
+      ],
+      "argumentTypes": [
+        "unknown",
+        "unknown"
+      ]
+    },
+    "arg1": "items",
+    "arg2": "length"
+  },
+  {
+    "callee": "call",
+    "base": "dimType_removeVisualRole",
+    "synthesizedArgumentTypes": [
+      "object",
+      "boolean"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840010900004",
+    "original": {
+      "callee": "ID:call",
+      "base": "ID:dimType_removeVisualRole",
+      "arguments": [
+        "LIT:this",
+        "ID:type"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "type"
+  },
+  {
+    "callee": "call",
+    "base": "dimType_addVisualRole",
+    "synthesizedArgumentTypes": [
+      "object",
+      "boolean"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840012740004",
+    "original": {
+      "callee": "ID:call",
+      "base": "ID:dimType_addVisualRole",
+      "arguments": [
+        "LIT:this",
+        "ID:type"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "type"
+  },
+  {
+    "callee": "apply",
+    "base": "unshift",
+    "synthesizedArgumentTypes": [
+      "object",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840014470005",
+    "original": {
+      "callee": "ID:apply",
+      "base": "ID:unshift",
+      "arguments": [
+        "ID:config",
+        "ID:arguments"
+      ],
+      "argumentTypes": [
+        "unknown",
+        "unknown"
+      ]
+    },
+    "arg1": "config",
+    "arg2": "arguments"
+  },
+  {
+    "callee": "setTimeout",
+    "base": "",
+    "synthesizedArgumentTypes": [
+      "function",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840016160010",
+    "original": {
+      "callee": "ID:setTimeout",
+      "base": "",
+      "arguments": [
+        "ID:fn",
+        "ID:delay"
+      ],
+      "argumentTypes": [
+        "unknown",
+        "unknown"
+      ]
+    },
+    "arg1": "fn",
+    "arg2": "delay"
+  }
+,
+  {
+    "callee": "setTimeout",
+    "base": "",
+    "synthesizedArgumentTypes": [
+      "function",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840017830010",
+    "original": {
+      "callee": "ID:setTimeout",
+      "base": "",
+      "arguments": [
+        "ID:fn",
+        "ID:delay"
+      ],
+      "argumentTypes": [
+        "unknown",
+        "unknown"
+      ]
+    },
+    "arg1": "fn",
+    "arg2": "delay"
+  },
+  {
+    "callee": "setTimeout",
+    "base": "",
+    "synthesizedArgumentTypes": [
+      "function",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840019490010",
+    "original": {
+      "callee": "ID:setTimeout",
+      "base": "",
+      "arguments": [
+        "ID:fn",
+        "ID:delay"
+      ],
+      "argumentTypes": [
+        "unknown",
+        "unknown"
+      ]
+    },
+    "arg1": "fn",
+    "arg2": "delay"
+  },
+  {
+    "callee": "slice",
+    "base": "selectedIndexes",
+    "synthesizedArgumentTypes": [
+      "number",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840021200005",
+    "original": {
+      "callee": "ID:slice",
+      "base": "ID:selectedIndexes",
+      "arguments": [
+        "LIT:0",
+        "ID:i"
+      ],
+      "argumentTypes": [
+        "number",
+        "unknown"
+      ]
+    },
+    "arg1": "0",
+    "arg2": "i"
+  },
+  {
+    "callee": "call",
+    "base": "dim_addChild",
+    "synthesizedArgumentTypes": [
+      "object",
+      "boolean"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840022830004",
+    "original": {
+      "callee": "ID:call",
+      "base": "ID:dim_addChild",
+      "arguments": [
+        "LIT:this",
+        "ID:source"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "source"
+  }
+,
+  {
+    "callee": "call",
+    "base": "dim_addLinkChild",
+    "synthesizedArgumentTypes": [
+      "object",
+      "boolean"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840024570004",
+    "original": {
+      "callee": "ID:call",
+      "base": "ID:dim_addLinkChild",
+      "arguments": [
+        "LIT:this",
+        "ID:source"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "source"
+  },
+  {
+    "callee": "apply",
+    "base": "toolBarTemplate",
+    "synthesizedArgumentTypes": [
+      "object",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840026660005",
+    "original": {
+      "callee": "ID:apply",
+      "base": "ID:toolBarTemplate",
+      "arguments": [
+        "LIT:this",
+        "ID:entry"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "entry"
+  },
+  {
+    "callee": "attr",
+    "base": "uki",
+    "synthesizedArgumentTypes": [
+      "string",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840028230004",
+    "original": {
+      "callee": "ID:attr",
+      "base": "ID:uki",
+      "arguments": [
+        "LIT:id",
+        "ID:comp"
+      ],
+      "argumentTypes": [
+        "string",
+        "unknown"
+      ]
+    },
+    "arg1": "id",
+    "arg2": "comp"
+  },
+  {
+    "callee": "attr",
+    "base": "uki",
+    "synthesizedArgumentTypes": [
+      "string",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840029850004",
+    "original": {
+      "callee": "ID:attr",
+      "base": "ID:uki",
+      "arguments": [
+        "LIT:id",
+        "ID:comp"
+      ],
+      "argumentTypes": [
+        "string",
+        "unknown"
+      ]
+    },
+    "arg1": "id",
+    "arg2": "comp"
+  },
+  {
+    "callee": "set",
+    "base": "transposed",
+    "synthesizedArgumentTypes": [
+      "number",
+      "string"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840031890003",
+    "original": {
+      "callee": "ID:set",
+      "base": "ID:transposed",
+      "arguments": [
+        "ID:key",
+        "ID:value"
+      ],
+      "argumentTypes": [
+        "unknown",
+        "unknown"
+      ]
+    },
+    "arg1": "key",
+    "arg2": "value"
+  }
+,
+  {
+    "callee": "callback",
+    "base": "",
+    "synthesizedArgumentTypes": [
+      "null",
+      "string"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840033220008",
+    "original": {
+      "callee": "ID:callback",
+      "base": "",
+      "arguments": [
+        "LIT:null",
+        "ID:body"
+      ],
+      "argumentTypes": [
+        "null",
+        "unknown"
+      ]
+    },
+    "arg1": "null",
+    "arg2": "body"
+  },
+  {
+    "callee": "apply",
+    "base": "template",
+    "synthesizedArgumentTypes": [
+      "object",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840034980005",
+    "original": {
+      "callee": "ID:apply",
+      "base": "ID:template",
+      "arguments": [
+        "LIT:this",
+        "ID:entry"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "entry"
+  },
+  {
+    "callee": "call",
+    "base": "onClassMixedIn",
+    "synthesizedArgumentTypes": [
+      "object",
+      "boolean"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840036890004",
+    "original": {
+      "callee": "ID:call",
+      "base": "ID:onClassMixedIn",
+      "arguments": [
+        "LIT:this",
+        "ID:cls"
+      ],
+      "argumentTypes": [
+        "object",
+        "unknown"
+      ]
+    },
+    "arg1": "this",
+    "arg2": "cls"
+  },
+  {
+    "callee": "callback",
+    "base": "",
+    "synthesizedArgumentTypes": [
+      "null",
+      "string"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840038340008",
+    "original": {
+      "callee": "ID:callback",
+      "base": "",
+      "arguments": [
+        "LIT:null",
+        "ID:usage"
+      ],
+      "argumentTypes": [
+        "null",
+        "unknown"
+      ]
+    },
+    "arg1": "null",
+    "arg2": "usage"
+  },
+  {
+    "callee": "setAttribute",
+    "base": "elem",
+    "synthesizedArgumentTypes": [
+      "object",
+      "number"
+    ],
+    "codeId": "data-realreal-calls-fixed.js1422840040400012",
+    "original": {
+      "callee": "ID:setAttribute",
+      "base": "ID:elem",
+      "arguments": [
+        "ID:key",
+        "ID:v"
+      ],
+      "argumentTypes": [
+        "unknown",
+        "unknown"
+      ]
+    },
+    "arg1": "key",
+    "arg2": "v"
+  }
+]

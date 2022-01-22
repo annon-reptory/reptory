@@ -1,0 +1,47 @@
+
+
+Program ExpressionStatement CallExpression MemberExpression Identifier Math Identifier sum Identifier a Identifier b
+
+
+    Math.sum(a, b)
+     Program ExpressionStatement CallExpression MemberExpression Identifier Math Identifier sum Identifier aa Identifier bb
+
+    Math.sum(a, 10)
+     Program ExpressionStatement CallExpression MemberExpression Identifier Math Identifier sum Identifier aa Literal 10
+
+    sum(a, b)
+     Program ExpressionStatement CallExpression Identifier sum Identifier aa Identifier bb
+
+
+    replace.replace(/-Regular/, '')
+
+    Program ExpressionStatement CallExpression MemberExpression Literal /-Regular/ Literal /-Regular/ Literal
+    Program ExpressionStatement CallExpression MemberExpression Identifier replace Identifier replace Literal /-Regular/ Literal
+
+
+    Math.sum(a, b)
+     Program ExpressionStatement CallExpression MemberExpression Identifier Math Identifier sum Identifier aa Identifier bb
+     Program ExpressionStatement CallExpression MemberExpression Identifier Math Identifier sum Identifier string aa Identifier number bb
+     Program ExpressionStatement CallExpression MemberExpression Identifier Math Identifier sum Identifier string Identifier number
+
+
+
+
+ still does not work:
+ ====================
+    https://github.com/zohooo/jaxedit/blob/master/library/mathjax/unpacked/jax/output/HTML-CSS/fonts/STIX/fontdata-1.0.js
+
+     "buggy_call":   "file.replace(/\\/[^\\/]*$/, '').replace(/\\//, '-').replace('', /-Regular/)",
+     "correct_call": "file.replace(/\\/[^\\/]*$/, '').replace(/\\//, '-').replace(/-Regular/, '')",
+
+    var name = "STIX"+file.replace(/\/[^\/]*$/,'').replace(/\//,'-').replace(/-Regular/,'');
+                => file.replace(/\/[^\/]*$/,'').replace(/\//,'-').replace(/-Regular/,'')
+
+    * Why we are adding extra '\'?
+    
+
+                
+
+
+
+    

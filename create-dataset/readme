@@ -1,0 +1,30 @@
+To create dataset first download it from the following link:
+http://files.srl.inf.ethz.ch/data/js_dataset.tar.gz
+Then extract it. There is a data.tar.gz file. Extract that as well and place data/ folder in the create-dataset folder.
+
+Run
+npm install estraverse escodegen esprima acorn walk-sync
+
+To create dataset for calls:
+Run the following command:
+sh datasetModule-calls.sh
+It will produce a folder named calls_dataset/ and in this folder you can find the complete json files extracted from training and test sets. Also, you will find extra files containing raw code. Dataset is deduplicated.
+
+
+To create dataset for binOps:
+Run the following command:
+sh datasetModule-binops.sh
+It will produce a folder named binOps_dataset/ and in this folder you can find the complete json files extracted from training and test sets. Also, you will find extra files containing raw code. Dataset is deduplicated.
+
+
+Go to ../src/prepare_context.sh
+You can run it for different types of bugs and different types of contexts. Just uncomment the one you need and run it. It will produce DevData/, TestData/ and TrainData folders in ../tensorflow/data/folder.
+
+Go to ../src/getEmbeddings.sh
+After filling DevData, TrainData and TestData folders in ../tensorflow/data/, you can run this script to produce vocab and embedding with Word2Vec.
+
+Go to ../GloVe/getEmbeddings_glove.sh
+After filling DevData, TrainData and TestData folders in ../tensorflow/data/, you can run this script to produce vocab and embedding with GloVe.
+
+note:
+extractFromJS.js, extractorOfBinOps.js, extractorOfCalls.js, jsExtractionUtil.js and Util.py files are originally created by Deppbugs and we might modified some of them to fit our usage.
